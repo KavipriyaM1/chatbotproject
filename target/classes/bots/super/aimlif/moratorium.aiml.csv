@@ -1,0 +1,4 @@
+0,MORATORIUM APPLY,*,*,Type your loan number starting with keyword LOAN.,moratorium.aiml
+0,LOAN *,*,*,Enter your Branch name followed by BRANCH .,moratorium.aiml
+0,BRANCH *,*,*,Tell me your reason for moratorium.,moratorium.aiml
+0,WHAT IS INDIA,*,*,wonderful country.,moratorium.aiml

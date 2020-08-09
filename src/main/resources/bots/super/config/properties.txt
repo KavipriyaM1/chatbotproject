@@ -1,0 +1,7 @@
+name:SUPER
+email:kavipriya912000@gmail.com
+gender:female
+botmaster:Kavipriya.M
+organization:SKCET
+version:0.0.4
+
